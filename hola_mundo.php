@@ -15,6 +15,9 @@
   <div class="alert alert-success">
     <strong>GitHub</strong> carpeta de versionamiento inicial
   </div>
+    <div class="alert alert-info">
+    <strong>GitHub</strong> cambios al archivo.
+  </div>
 </div>
 
 </body>
